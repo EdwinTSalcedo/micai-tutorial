@@ -4,7 +4,6 @@
 
 <p align='right'><i>  Updated: November 14th, 2023 </i></p> <div align="center">
   <a href="#Abstract"><b>Abstract</b></a> |
-  <a href="#Contents"><b>Slides</b></a> |
   <a href="#Contents"><b>Tutorial</b></a> |
   <a href="#Results"><b>Resources</b></a> 
 </div>
